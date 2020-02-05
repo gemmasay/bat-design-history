@@ -94,7 +94,6 @@ ITT Recruitment & Allocations Team
   content: RequestForAllocations
 }) }}
 
-<<<<<<< HEAD:app/posts/publish-teacher-training-courses/2020-01-24-allocations-cycle-summary.md
 ## Email to providers 2 (Reminder)
 
 The Allocations team sent a reminder in early July.
@@ -130,11 +129,6 @@ ITT Recruitment & Allocations Team
 ## Email to providers 3 (Permission To Recruit) 
 
 If providers had permission to recruit they were then sent this email.
-=======
-## Email to providers 2 (Permission To Recruit)
-
-If providers had permission to recruit they were then sent this email:
->>>>>>> origin/master:app/posts/publish-teacher-training-courses/2019-10-01-allocations-cycle-summary.md
 
 {% set PermissionToRecruit %}
 Dear colleague,
